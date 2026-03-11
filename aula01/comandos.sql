@@ -15,6 +15,9 @@ CREATE TABLE cursos (
 PRAGMA table_info('cursos');
 
 
+INSERT INTO cursos (nome, aulas) VALUES ('CSS', 12);
+
+
 
 
 
